@@ -38,4 +38,4 @@ The project consists of three main components:
 
 ## Apendix
 
-For more informtion about the project, please refer to `docs/report/report.pdf`.
+For more information about the project, please refer to `docs/report/report.pdf`.
